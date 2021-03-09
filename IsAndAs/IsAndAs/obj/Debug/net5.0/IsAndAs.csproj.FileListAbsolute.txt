@@ -1,0 +1,15 @@
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/IsAndAs.deps.json
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/IsAndAs.runtimeconfig.json
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/IsAndAs.runtimeconfig.dev.json
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/IsAndAs.dll
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/ref/IsAndAs.dll
+/Users/rob/Projects/IsAndAs/IsAndAs/bin/Debug/net5.0/IsAndAs.pdb
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.csprojAssemblyReference.cache
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.AssemblyInfoInputs.cache
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.AssemblyInfo.cs
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.dll
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/ref/IsAndAs.dll
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.pdb
+/Users/rob/Projects/IsAndAs/IsAndAs/obj/Debug/net5.0/IsAndAs.genruntimeconfig.cache
